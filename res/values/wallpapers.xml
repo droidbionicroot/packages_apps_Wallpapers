@@ -16,38 +16,23 @@
  -->
 
 <resources>
-    <string-array name="wallpapers" translatable="false">
-        <item>wallpaper_h4x</item>
-        <item>wallpaper_omfgb</item>
-	<item>wallpaper_zombies</item>
-	<item>ks1</item>
-	<item>ks2</item>
-	<item>ks3</item>
-	<item>ks4</item>
-	<item>angry</item>
-	<item>rootz</item>
-	<item>logo</item>
-        <item>andyomfgb2</item>
-        <item>omfgbcircle</item>
-        <item>omfgbexp</item>
-        <item>omfgbsquares</item>
-
+    <array name="extra_wallpapers" />
+    <string-array name="wallpapers">
+		<item>cyanogen1</item>
+		<item>cyanogen2</item>
+		<item>cyanogen3</item>
+		<item>cyanogen4</item>
+        	<item>cyanogen5</item>
+        	<item>cyanogen6</item>
     </string-array>
-
-    <string-array name="info" translatable="false">
-	<item>T3hh4xx0r :: Stevelogik</item>
-	<item>OMFGB :: Stevelogik</item>
-	<item>Zombies :: AOSP</item>
-	<item>OMFGB-cyan :: Ksknightmare</item>
-	<item>OMFGB-2 :: Ksknightmare</item>
-	<item>Space Collision :: Ksknightmare</item>
-	<item>Space Wall :: Ksknightmare</item>
-	<item>Angry Andy :: OMGBeav</item>
-	<item>Sully :: RootzWiki</item>
-	<item>T3hh4xx0r Logo :: OMGBeav</item>
-	<item>OMFGB Andy :: android_michael</item>
-        <item>OMFGB Circles :: android_michael</item>
-        <item>Exploding OMFGB :: android_michael</item>
-        <item>OMFGB Squares :: android_michael</item>
+    <string-array name="info">
+		<item>Matallic/item>
+		<item>Lime Green</item>
+		<item>Metallic Silver</item>
+		<item>Black and Silver</item>
+        	<item>Metallic Burst</item>
+        	<item>Sky Blue</item>
+        
     </string-array>
 </resources>
+
