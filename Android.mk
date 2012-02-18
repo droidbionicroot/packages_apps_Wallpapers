@@ -21,6 +21,6 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := CyanogenModWallpaper
+LOCAL_PACKAGE_NAME := CyanogenWallpaper
 
 include $(BUILD_PACKAGE)
